@@ -1,0 +1,6 @@
+public_url: 'https://elastic-leitos.saude.gov.br/leito_ocupacao/_search'
+public_username: 'user-api-leitos'
+public_password: 'aQbLL3ZStaTr38tj'
+
+broker_url: 'localhost:9092'
+topic_name: 'topic-api-leitos'
